@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory Management</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="newUser">Add new User?</string>
+    <string name="password">Password</string>
+    <string name="addItem">Add your Item</string>
+    <string name="add">Add Item</string>
+    <string name="deleteItem">Delete</string>
+    <string name="title_activity_add_item_helper">AddItemHelper</string>
+    <string name="addQuantity">Add quantity</string>
+    <string name="inventoryList"> Inventory List</string>
+    <string name="toggleSMS">Notify when &lt; 1</string>
+    <string name="setting"> Settings</string>
+
+</resources>
