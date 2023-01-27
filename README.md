@@ -17,4 +17,4 @@ I tested this code by debugging the application with breakpoints and using the s
 This process was important because I can capture every single process that was happening within my application.
 
 I feel that the inventory portion is where I really pushed the envelope, I've only worked with mongoDB and learning a new SQL language along with implementing within an application has been quite the challenge and time sink, but I'm glad I stuck with it stayed motivated and ensured that I did my best to steer to the course to completion.
-![alt text] (https://github.com/TennyV/inventory_Management/blob/master/AddItems.png)
+![alt text](https://github.com/TennyV/inventory_Management/blob/master/AddItems.png)
