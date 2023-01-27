@@ -7,7 +7,7 @@ The goal of this project was to design an inventory management application with 
 When I started this project I had a few too many screens, but then quickly realized that too many screens wasn't neccesarily a good thing so I did my best to preserve the best screens to ensure I had enough functionality to do what I needed to do without compromising the integrity of the application.
 My designs could have been better by chaning the font of the text within the inventory list.
 
-![alt text](https://github.com/TennyV/inventory_Management/main.png?raw=true)
+![alt text](https://github.com/TennyV/inventory_Management/main.png?raw=true
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 How did you test to ensure your code was functional? Why is this process important and what did it reveal?
